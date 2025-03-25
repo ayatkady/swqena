@@ -1,0 +1,6 @@
+#include <stdio.h> //main liberary.....//
+
+void main()
+{
+    printf("Hello, C Language");
+}
